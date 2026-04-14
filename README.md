@@ -1,1 +1,1 @@
-# dr-ai-onboarding
+# ai-onboarding-physicians
